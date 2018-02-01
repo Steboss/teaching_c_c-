@@ -1,0 +1,8 @@
+Write a program which takes input numbers from a file
+the user decides when to stop
+after that  it computes the average 
+and the absolute magnitude residual about the mean
+
+do it in C++ normally using functions
+do it in C
+do it with Classes
